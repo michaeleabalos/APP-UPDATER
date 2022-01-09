@@ -1,2 +1,5 @@
-eyJ2ZXJzaW9uQ29kZSI6IjEuMSIsIk1lc3NhZ2UiOiJzYW1wbGUiLCJ1cmwiOiJtaWttaWstY29u
-Zmlncy5jb20ifQ==
+{
+ "versionCode": "1.2.0",
+ "url": "https://play.google.com/store/apps/details?id=com.sshbrazil.braziltunnel",
+ "Message": "SBR Injector (SSH/SlowDNS/SSL)"
+ }
